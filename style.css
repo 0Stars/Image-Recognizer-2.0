@@ -1,6 +1,6 @@
 body
 {
-    font-family: 'Quicksand', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   background: deepskyblue;
 }
 .header_div
@@ -30,7 +30,7 @@ body
   }
   #camera , #result
   {
-    border: 2px solid white;
+    border: 2px solid black;
     width: 310px;
     height: 300px; 
     box-shadow: 5px 5px 18px white;    
@@ -41,12 +41,12 @@ body
     font-size: 16px;
     box-shadow: 5px 5px 18px white;
     border: 1px solid;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   }
   .footer_div
   {
     margin-bottom: 50px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   }
 
   .footer_div h4
@@ -55,7 +55,7 @@ body
     border-radius: 10px;
     padding: 5px;
     box-shadow: 5px 5px 18px white;    
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   }
   .footer_div img
   {
@@ -69,9 +69,10 @@ body
    background-color: white;
    line-height: 3;
    text-align: center;
-   font-family: 'Quicksand', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
 }
-#object_name
+
+.copy_right_footer
 {
-    font-family: 'Quicksand', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
